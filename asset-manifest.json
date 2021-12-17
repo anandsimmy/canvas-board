@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/canvas-board/static/css/main.0f7fd6df.chunk.css",
+    "main.js": "/canvas-board/static/js/main.6c3246ee.chunk.js",
+    "main.js.map": "/canvas-board/static/js/main.6c3246ee.chunk.js.map",
+    "runtime-main.js": "/canvas-board/static/js/runtime-main.e60c531d.js",
+    "runtime-main.js.map": "/canvas-board/static/js/runtime-main.e60c531d.js.map",
+    "static/js/2.72c8bb11.chunk.js": "/canvas-board/static/js/2.72c8bb11.chunk.js",
+    "static/js/2.72c8bb11.chunk.js.map": "/canvas-board/static/js/2.72c8bb11.chunk.js.map",
+    "static/js/3.be83cbbf.chunk.js": "/canvas-board/static/js/3.be83cbbf.chunk.js",
+    "static/js/3.be83cbbf.chunk.js.map": "/canvas-board/static/js/3.be83cbbf.chunk.js.map",
+    "index.html": "/canvas-board/index.html",
+    "static/css/main.0f7fd6df.chunk.css.map": "/canvas-board/static/css/main.0f7fd6df.chunk.css.map",
+    "static/js/2.72c8bb11.chunk.js.LICENSE.txt": "/canvas-board/static/js/2.72c8bb11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60c531d.js",
+    "static/js/2.72c8bb11.chunk.js",
+    "static/css/main.0f7fd6df.chunk.css",
+    "static/js/main.6c3246ee.chunk.js"
+  ]
+}
